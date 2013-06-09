@@ -7,6 +7,7 @@ Prénom Nom - Ville - url - contact
 France
 ------
 Laurent Paoletti - Toulon - [providenz](http://providenz.fr) - lp at providenz dot fr
+Mathieu Richardoz - Paris - [babik](http://www.babik.fr) - contact at babik dot fr
 
 Belgique
 --------

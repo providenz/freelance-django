@@ -11,6 +11,7 @@ France
 * Laurent Paoletti - Toulon - [providenz](http://providenz.fr) - lp at providenz dot fr
 * Mathieu Richardoz - Paris - [babik](http://www.babik.fr) - contact at babik dot fr
 * Jean-Sébastien Sevestre - Mâcon - [site](http://www.jssevestre.net) - contact at jssevestre dot net
+* Stéphane "Twidi" Angel - Paris - [twidi.com](http://twidi.com) - s.angel at twidi dot com 
 
 Belgique
 --------

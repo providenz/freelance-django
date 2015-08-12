@@ -15,6 +15,7 @@ France
 
 Belgique
 --------
+* Stéphane Reynders - Wellin - [spout](http://spout.be) - stephane.reynders at gmail dot com
 
 Suisse
 -------

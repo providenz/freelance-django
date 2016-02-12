@@ -18,8 +18,12 @@ Belgique
 
 Suisse
 -------
-
 * Marco Bonetti - Lausanne - [cruncher](https://cruncher.ch/fr/) - marco at cruncher dot ch
+
+Irlande
+-------
+* Adrien Lachaize - Dublin - [adrienlachaize](http://adrienlachaize.com) - adrien.lachaize at gmail dot com
+
 
 
 Si vous souhaitez figurer sur la liste, vous savez quoi faire...

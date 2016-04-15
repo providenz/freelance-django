@@ -12,6 +12,7 @@ France
 * Mathieu Richardoz - Paris - [babik](http://www.babik.fr) - contact at babik dot fr
 * Jean-Sébastien Sevestre - Mâcon - [site](http://www.jssevestre.net) - contact at jssevestre dot net
 * Stéphane "Twidi" Angel - Paris - [twidi.com](http://twidi.com) - s.angel at twidi dot com 
+* Kevin Samuel - Nice - [formationspython.com](https://formationspython.com) - kevin at formationspython dot com
 
 Belgique
 --------

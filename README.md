@@ -16,6 +16,8 @@ France
 Belgique
 --------
 
+* Emmanuelle Delescolle - Namur - [LevIT](http://www.levit.be) - emma at levit dot be
+
 Suisse
 -------
 

@@ -14,6 +14,7 @@ France
 * Jean-Sébastien Sevestre - Mâcon - [site](http://www.jssevestre.net) - contact at jssevestre dot net
 * Stéphane "Twidi" Angel - Paris - [twidi.com](http://twidi.com) - s.angel at twidi dot com 
 * Kevin Samuel - Nice - [formationspython.com](https://formationspython.com) - kevin at formationspython dot com
+* Samuel Paccoud - Paris - samuel at sampaccoud dot com
 
 Belgique
 --------

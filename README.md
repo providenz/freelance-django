@@ -15,6 +15,7 @@ France
 * Stéphane "Twidi" Angel - Paris - [twidi.com](http://twidi.com) - s.angel at twidi dot com 
 * Kevin Samuel - Nice - [formationspython.com](https://formationspython.com) - kevin at formationspython dot com
 * Samuel Paccoud - Paris - samuel at sampaccoud dot com
+* Anthony Delaby - Montpellier - [anthonydelaby.me](http://anthonydelaby.me/) - pro at anthonydelaby dot me
 
 Belgique
 --------

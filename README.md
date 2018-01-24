@@ -7,6 +7,7 @@ Prénom Nom - Ville - url - contact
 France
 ------
 
+* Antoine Nguyen - Nantes - [tonio](http://tonio.ngyn.org) - tonio at ngyn dot org
 * Sylvain Blot - Paris - [sylvainblot](http://sylvainblot.com) - sylvainblot at me dot com
 * Thibault Jouannic - Montpellier - [Miximum](http://www.miximum.fr) - thibault at miximum dot fr
 * Laurent Paoletti - Toulon - [providenz](http://providenz.fr) - lp at providenz dot fr

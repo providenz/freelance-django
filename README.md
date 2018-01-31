@@ -32,6 +32,9 @@ Irlande
 -------
 * Adrien Lachaize - Dublin - [adrienlachaize](http://adrienlachaize.com) - adrien.lachaize at gmail dot com
 
+Espagne
+-------
+* Daniel Chimeno - remote - daniel at chimeno dot me
 
 
 Si vous souhaitez figurer sur la liste, vous savez quoi faire...

@@ -17,6 +17,7 @@ France
 * Kevin Samuel - Nice - [formationspython.com](https://formationspython.com) - kevin at formationspython dot com
 * Samuel Paccoud - Paris - samuel at sampaccoud dot com
 * Anthony Delaby - Montpellier - [anthonydelaby.me](http://anthonydelaby.me/) - pro at anthonydelaby dot me
+* Steve Kossouho - Toulouse - steve dot kossouho at gmail 
 
 Belgique
 --------
